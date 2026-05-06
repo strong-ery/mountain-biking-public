@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dfa1706555c183b4b99f82fa10291091
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316532
+  packageName: Easy Bike-Bicycle System
+  packageVersion: 1.0
+  assetPath: Assets/RayznGames/BicycleSystem/Scripts/CameraController.cs
+  uploadId: 749101

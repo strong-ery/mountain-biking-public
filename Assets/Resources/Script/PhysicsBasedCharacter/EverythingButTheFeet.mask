@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EverythingButTheFeet
+  m_Mask: 00000000010000000100000001000000010000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Root
+    m_Weight: 1
+  - m_Path: Armature/Root/Thigh_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Thigh_l/Calf_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Thigh_l/Calf_l/Foot_l
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh_l/Calf_l/Foot_l/Foot_l_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Thigh_r/Calf_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Thigh_r/Calf_r/Foot_r
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh_r/Calf_r/Foot_r/Foot_r_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Torso
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Middle_C1_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Middle_C1_l/Middle_C2_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Middle_C1_l/Middle_C2_l/Middle_C2_l_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Pinky_C1_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Pinky_C1_l/Pinky_C2_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Pinky_C1_l/Pinky_C2_l/Pinky_C2_l_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Pointer_C1_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Pointer_C1_l/Pointer_C2_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Pointer_C1_l/Pointer_C2_l/Pointer_C2_l_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Thumb_C1_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Thumb_C1_l/Thumb_C2_l
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_l/Forearm_l/Wrist_l/Hand_l/Thumb_C1_l/Thumb_C2_l/Thumb_C2_l_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Middle_C1_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Middle_C1_r/Middle_C2_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Middle_C1_r/Middle_C2_r/Middle_C2_r_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Pinky_C1_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Pinky_C1_r/Pinky_C2_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Pinky_C1_r/Pinky_C2_r/Pinky_C2_r_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Pointer_C1_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Pointer_C1_r/Pointer_C2_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Pointer_C1_r/Pointer_C2_r/Pointer_C2_r_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Thumb_C1_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Thumb_C1_r/Thumb_C2_r
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Bicep_r/Forearm_r/Wrist_r/Hand_r/Thumb_C1_r/Thumb_C2_r/Thumb_C2_r_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Head
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Head/Head_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Torso/Head/Plane
+    m_Weight: 1
+  - m_Path: Mball.044 Remeshed
+    m_Weight: 1
+  - m_Path: Sphere
+    m_Weight: 1
